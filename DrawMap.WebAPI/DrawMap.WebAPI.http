@@ -1,0 +1,6 @@
+@DrawMap.WebAPI_HostAddress = http://localhost:5097
+
+GET {{DrawMap.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
